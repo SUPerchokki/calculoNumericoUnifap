@@ -32,9 +32,9 @@ def substituicao(A):
 
 
 
-A = [[2,3,-1,5],[4,4,-3,3],[2,-3,1,-1]]
+A = [[10,3,4,280],[6,12,3,390],[6,5,17,670]]
  
 res = substituicao(triangular(A))
-print("Solução:", res)
+print("Solucao:", res)
 
 
